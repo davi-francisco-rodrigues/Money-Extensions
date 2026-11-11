@@ -4,6 +4,19 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-  </PropertyGroup>
 
+    <!-- Configuração do pack -->
+    <PackageId>MoneyExtension</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Davi Franciso</Authors>
+    <PackageDescription>Extensão para converter decimal para inteiros.</PackageDescription>
+    <Description>Extensão para converter decimal para inteiros.</Description>
+    <RepositoryUrl>https://github.com/davi-francisco-rodrigues/Money-Extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/davi-francisco-rodrigues/Money-Extensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>dinheiro; decimal; inteiro; convertor</PackageTags>
+    <Title>Money Extension</Title>
+    <Summary>Extensão para converter decimal para inteiros.</Summary>
+  </PropertyGroup>
 </Project>
