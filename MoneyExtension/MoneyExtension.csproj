@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <!-- Configuração do pack -->
-    <PackageId>MoneyExtension</PackageId>
+    <PackageId>MoneyExtension-Davi</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Davi Franciso</Authors>
